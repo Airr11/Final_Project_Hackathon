@@ -19,4 +19,9 @@ Jawaban:
 
 3. Pemanasan global, efek rumah kaca, penebangan hutan, dll
 
-4. mengurangi jumlah polusi, memakai energi terbarukan dan ramah lingkungan, menanam pohon, dll 
+4. mengurangi jumlah polusi, memakai energi terbarukan dan ramah lingkungan, menanam pohon, dll
+
+Ide:
+- Ai x chatbot
+
+- saya akan membuat chatbot ai yang dapat mengidentifikasi apakah tindakan ini termasuk kegiatan mencemari lingkungan dan chatbot ai juga dapat memberikan gambar atau contoh pencemaran lingkungan
